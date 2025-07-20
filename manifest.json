@@ -1,0 +1,20 @@
+{
+  "name": "Water Reminder",
+  "short_name": "WaterApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e0f7fa",
+  "theme_color": "#00796b",
+  "icons": [
+    {
+      "src": "download.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "download (1).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

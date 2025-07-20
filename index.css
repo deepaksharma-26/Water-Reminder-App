@@ -1,0 +1,56 @@
+body {
+  background: #e0f7fa;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  display: inline-block;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 90%;
+  max-width: 500px;
+}
+
+h1 {
+  color: #00796b;
+}
+
+#timer, #report {
+  font-size: 20px;
+  margin: 15px 0;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #00796b;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #004d40;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #aaa;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #e0f7fa;
+}
